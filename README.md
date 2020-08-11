@@ -31,6 +31,7 @@
 [<img align="left" alt="Microsoft Azure" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftazure.svg" />][nolink]
 
 <br />
+<br />
 
 
 ![Dave's github stats](https://github-readme-stats.vercel.app/api?username=davidturner94&show_icons=true&count_private=true)
