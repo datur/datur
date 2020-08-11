@@ -30,6 +30,7 @@
 [<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />][nolink]
 [<img align="left" alt="Microsoft Azure" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftazure.svg" />][nolink]
 
+<br />
 
 
 ![Dave's github stats](https://github-readme-stats.vercel.app/api?username=davidturner94&show_icons=true&count_private=true)
