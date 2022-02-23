@@ -1,12 +1,12 @@
 # Hey I'm Dave
 
-## Currently studying for a masters in Artificial Intelligence at Heriot-Watt University
+## Currently a Junior Software Developer at Scientia Ltd
 
 ## What I'm working on
 
-- I'm currently learning full stack JavaScript, Docker, and, Algorithm Visualisation
-- I'm currently working on a personal website
-- My goal is to contribute to more Open Source Projects this year
+- I'm currently working on backend API development.
+- I'm currently learning React and further developing knowledge of Neural Network architectures.
+- My goal is to contribute to more Open Source Projects this year.
 
 ### Get in touch:
 
