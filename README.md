@@ -18,17 +18,17 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][nolink]
-[<img align="left" alt="PyTorch" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" />][nolink]
-[<img align="left" alt="Keras" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keras.svg" />][nolink]
-[<img align="left" alt="Pandas" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" />][nolink]
-[<img align="left" alt="Flask" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg" />][nolink]
-[<img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />][nolink]
-[<img align="left" alt="SQL" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />][nolink]
-[<img align="left" alt="C++" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />][nolink]
-[<img align="left" alt="C#" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />][nolink]
-[<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />][nolink]
-[<img align="left" alt="Microsoft Azure" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftazure.svg" />][nolink]
+[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" />][nolink]
+[<img align="left" alt="PyTorch" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pytorch/pytorch-original.svg" />][nolink]
+[<img align="left" alt="Go" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/go/go-original.svg" />][nolink]
+[<img align="left" alt="Pandas" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original.svg" />][nolink]
+[<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" />][nolink]
+[<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" />][nolink]
+[<img align="left" alt="neo4j" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/neo4j/neo4j-original.svg" />][nolink]
+[<img align="left" alt="Graphql" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/graphql/graphql-plain.svg" />][nolink]
+[<img align="left" alt="C#" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" />][nolink]
+[<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" />][nolink]
+[<img align="left" alt="Microsoft Azure" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original.svg" />][nolink]
 
 <br />
 <br />
