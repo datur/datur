@@ -27,8 +27,6 @@
 <br />
 <br />
 
-![Dave's github stats](https://github-readme-stats.davidturner94.vercel.app/api?username=datur&show_icons=true&count_private=true)
-
 [nolink]: #
 [twitter]: https://twitter.com/_daveturner
 [linkedin]: https://linkedin.com/in/david-turner-io
