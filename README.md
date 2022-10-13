@@ -1,6 +1,6 @@
 # Hey I'm Dave
 
-## Currently a Junior Software Developer at Kraken Technologies
+## Currently a Backend Developer at Kraken Technologies
 
 ## What I'm working on
 
