@@ -1,6 +1,6 @@
-# Hey I'm Dave
+# Hey I'm Dave 👋
 
-## Currently a Backend Developer at Kraken Technologies
+I'm currently a Software Engineer at Kraken Technologies working on API tooling and performance.
 
 
 [nolink]: #
